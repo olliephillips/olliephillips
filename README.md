@@ -4,15 +4,15 @@
 
 ### What you can find on my Github
 
-Mostly Go, some JavaScript. I do a lot my messing, so some of my projects on here aren't finished, and likely won't be. Others are not very good full stop, and the majority are less than useful.
+Mostly Go, some JavaScript. I do a lot my messing, so some of my projects on here aren't finished, and likely won't be.
 
 ### About me
 
-- Go (golang) is my thing (+ 6years). Vlang.io is interesting me too. I'm tinkering with it ATM.
+- Go (golang) is my thing (6+ years). Vlang.io is interesting me too - I'm tinkering with it ATM.
 - I've experience with AWS, GCP and IBM Cloud.
-- I was Contracting Go Engineer, but then IR35.
-- I was a F2F Golang Trainer, but then Covid19.
-- I'm now working in Data Engineering with a big UK household name.
+- I was a contract Go Engineer, but then IR35.
+- I'd just started a face-2-face Golang training business, but then Covid19.
+- I'm now working in Data Engineering with a big UK household name. 
 - I'm quite resilient.
 
 ### 💬  Favourite quotes:
