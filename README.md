@@ -15,7 +15,7 @@ Mostly Go, some JavaScript. I do a lot my messing, so some of my projects on her
 - I'm now working in Data Engineering with a big UK household name.
 - I'm quite resilient.
 
-### 💬 Favourite quotes:
+### 💬  Favourite quotes:
 - "If it ain't Go, I don't want to know" - Me, 2019
 - "I'm getting too old for this \*hit!"- Sgt Roger Murtaugh, 1987
 
