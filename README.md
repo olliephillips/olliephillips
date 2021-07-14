@@ -6,6 +6,10 @@
 
 Mostly Go, some JavaScript. I do a lot my messing, so some of my projects on here aren't finished, and likely won't be.
 
+### ATM
+
+Porting a 10+ year old PHP/Dynamic CMS I wrote, to Go/Static/Dynamic just because...
+
 ### About me
 
 - Go (golang) is my thing (7+ years). Vlang.io is interesting me too - I'm tinkering with it ATM.
